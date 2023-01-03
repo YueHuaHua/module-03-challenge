@@ -254,6 +254,7 @@ section {
 }
 
 .section-title {
+  text-align: center;
   padding-bottom: 30px;
 }
 
@@ -274,7 +275,7 @@ section {
   height: 3px;
   background: #149ddd;
   bottom: 0;
-  left: 0;
+  left: calc(50% - 20px);
 }
 
 .section-title p {
