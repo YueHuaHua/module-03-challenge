@@ -417,15 +417,18 @@ section {
 
 .resume-button {
   position: relative;
-  top: 25px;
-  color: #050d18;
-  background-color: transparent;
-  border: 2px solid #1f5297;
-  border-radius: 8px;
-  padding: 0.75rem 1rem;
-  line-height: 1;
-  text-decoration: none;
-  cursor: pointer;
+  top: 25px;  
+  background: #149ddd;
+  border: 0;
+  padding: 10px 30px 12px 30px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 50px;
+}
+
+.resume-button:hover {
+  background: #0e668f;
+  color: #fff;
 }
 
 /* Content - Portfolio */
@@ -675,7 +678,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #149ddd;
+  background: #0e668f;
 }
 
 /* Footer */
