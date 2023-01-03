@@ -84,16 +84,16 @@ Application can also be accessed [here](https://yuehuahua.github.io/module-03-ch
 
 ## Usage 
 
-Simply click on the links required to be sent to the relevant piece of information.
-
-Click on links to navigate the page \
-Hover on different cards to view detailed information
+* Simply click on the links required to be sent to the relevant piece of information.
+* Click on links to navigate the page
+* Hover on different cards to view detailed information
 
 </br>
 
 ## Credits
 
-TODO: Add credits
+* Z-index on work section is based on [CSS z-index Property](https://www.w3schools.com/cssref/pr_pos_z-index.php#:~:text=The%20z%2Dindex%20property%20specifies,with%20a%20lower%20stack%20order.) tutorial by [w3schools](https://www.w3schools.com/).
+* Style and color palette are inspired from [Bootstrapmade](https://bootstrapmade.com/).
 
 </br>
 
