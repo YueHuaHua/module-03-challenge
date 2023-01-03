@@ -216,7 +216,7 @@ h6 {
 
 #hero p {
   color: #fff;
-  margin-bottom: 50px;
+  margin-bottom: 10px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
 }
@@ -478,7 +478,7 @@ section {
   opacity: 0;
   left: 0;
   right: 0;
-  top: 250px;
+  top: 10%;
   text-align: center;
   z-index: 3;
   position: absolute;
